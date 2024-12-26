@@ -1,0 +1,13 @@
+[ {
+  "patchName" : "Custom branding icon for YouTube",
+  "options" : [ {
+    "key" : "appIcon",
+    "value" : "mmt"
+  } ]
+}, {
+  "patchName" : "Custom branding name for YouTube",
+  "options" : [ {
+    "key" : "appName",
+    "value" : "YouTube Rvx"
+  } ]
+} ]
